@@ -1,0 +1,2 @@
+module GameMaster::GameMasterHelper
+end
