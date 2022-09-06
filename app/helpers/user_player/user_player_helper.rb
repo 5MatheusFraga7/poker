@@ -1,0 +1,2 @@
+module UserPlayer::UserPlayerHelper
+end
